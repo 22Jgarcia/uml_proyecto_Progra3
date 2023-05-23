@@ -1,0 +1,8 @@
+C:\Users\Georg\Desktop\programas cshart\tareas\catalox\catalox\bin\Debug\catalox.exe.config
+C:\Users\Georg\Desktop\programas cshart\tareas\catalox\catalox\bin\Debug\catalox.exe
+C:\Users\Georg\Desktop\programas cshart\tareas\catalox\catalox\bin\Debug\catalox.pdb
+C:\Users\Georg\Desktop\programas cshart\tareas\catalox\catalox\obj\Debug\catalox.csproj.AssemblyReference.cache
+C:\Users\Georg\Desktop\programas cshart\tareas\catalox\catalox\obj\Debug\catalox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Georg\Desktop\programas cshart\tareas\catalox\catalox\obj\Debug\catalox.csproj.CoreCompileInputs.cache
+C:\Users\Georg\Desktop\programas cshart\tareas\catalox\catalox\obj\Debug\catalox.exe
+C:\Users\Georg\Desktop\programas cshart\tareas\catalox\catalox\obj\Debug\catalox.pdb
